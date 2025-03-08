@@ -33,8 +33,9 @@ A **Big Data & Cloud Computing Engineering Student** 🚀 from Casablanca, Moroc
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
-<code><img height="20" src="https://imgs.search.brave.com/CEqTTPaAo50V6siYU7bjsCGpL1PcOhfRC-cOlCgyWj4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy8w/LzBlL0hhZG9vcF9s/b2dvLnN2Zw"></code>
-<code><img height="20" src="https://imgs.search.brave.com/4AnPkY3QwL-loXwbefWyFbi18YiX2JenblhrZDeQ6kc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy83/LzdlL0FwYWNoZV9G/ZWF0aGVyX0xvZ28u/c3Zn"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Hadoop_logo.svg"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Apache_Feather_Logo.svg"></code>
+
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
