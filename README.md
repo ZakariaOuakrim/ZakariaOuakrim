@@ -36,9 +36,11 @@ A **Big Data & Cloud Computing Engineering Student** 🚀 from Casablanca, Moroc
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/hadoop/hadoop.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/apache/apache.png"></code>
 
-<p >
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
- <div class="icons-social" style="margin-left: 10px;">
+<p align="center">
+
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/saurabhmchavan/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/100rabhcsmc">
