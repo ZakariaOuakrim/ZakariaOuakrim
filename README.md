@@ -34,7 +34,7 @@ A **Big Data & Cloud Computing Engineering Student** 🚀 from Casablanca, Moroc
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Apache_Hadoop_logo.svg"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Apache_logo.svg/2560px-Apache_logo.svg.png"></code>
+<code><img height="20" src="https://imgs.search.brave.com/4AnPkY3QwL-loXwbefWyFbi18YiX2JenblhrZDeQ6kc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy83/LzdlL0FwYWNoZV9G/ZWF0aGVyX0xvZ28u/c3Zn"></code>
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
@@ -50,7 +50,7 @@ A **Big Data & Cloud Computing Engineering Student** 🚀 from Casablanca, Moroc
     <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/zakariaouakr/">
         <img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png">
     </a>
-    <a style="margin-left: 10px;" target="_blank" href="https://github.com/ZakariaOuakrim/Me.io/blob/master/zakaria-ouakrim.pdf">
+    <a style="margin-left: 10px;" target="_blank" href="https://github.com/ZakariaOuakrim/ZakariaOuakrim/blob/main/zakaria-ouakrim.pdf">
         <img src="https://img.icons8.com/doodle/40/000000/pdf.png">
     </a>
 </div>
